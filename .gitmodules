@@ -1,0 +1,4 @@
+[submodule "Yaroslab/v12_edocument_yaros"]
+	path = Yaroslab/v12_edocument_yaros
+	url = git@github.com:Yaroslab/v12_edocument_yaros.git
+	branch = 2-documento-rectificativo-de-nc
