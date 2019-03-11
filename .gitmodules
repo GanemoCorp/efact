@@ -12,3 +12,8 @@
 	path = Yaroslab/v12_contact_yaros
 	url = git@github.com:Yaroslab/v12_contact_yaros.git
 	branch = dev
+
+[submodule "Yaroslab/v12_l10n_pe_yaros"]
+	path = Yaroslab/v12_l10n_pe_yaros
+	url = git@github.com:Yaroslab/v12_l10n_pe_yaros.git
+	branch = dev
